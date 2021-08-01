@@ -1,0 +1,1 @@
+Now let’s make some improvements to our Demo.Greetings module. We will pass an additional parameter called language to our say_hello function and get a localized greeting message.
